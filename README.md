@@ -1,4 +1,4 @@
-# Superstore Sales & Shipping Performance Analysis
+# Superstore Sales & Performance Analysis
 
 ## Overview
 In this project, I analyze a **Superstore Sales Dataset** to uncover insights about **sales performance** and **shipping times** across different regions and categories. The goal is to understand how shipping modes and shipping durations affect sales, identify top-performing regions and categories, and make recommendations for business improvement.
